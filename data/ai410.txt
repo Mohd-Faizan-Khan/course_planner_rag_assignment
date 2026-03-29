@@ -1,0 +1,3 @@
+Course: CS410 Deep Learning
+Prerequisites: CS401, MATH201
+Neural networks, backpropagation.

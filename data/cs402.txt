@@ -1,0 +1,3 @@
+Course: CS402 Artificial Intelligence
+Prerequisites: CS301
+Search, planning, reasoning.

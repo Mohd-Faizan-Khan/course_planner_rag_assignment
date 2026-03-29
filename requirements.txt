@@ -1,0 +1,10 @@
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+tiktoken
+pypdf
+beautifulsoup4
+lxml
+python-dotenv
+streamlit

@@ -1,0 +1,3 @@
+Course: CS303 Operating Systems
+Prerequisites: CS201
+Processes, threads, scheduling.

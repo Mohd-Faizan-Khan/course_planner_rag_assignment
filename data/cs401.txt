@@ -1,0 +1,3 @@
+Course: CS401 Machine Learning
+Prerequisites: CS301, MATH201
+Supervised learning, regression, classification.

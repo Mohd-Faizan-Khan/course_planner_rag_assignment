@@ -1,0 +1,3 @@
+Course: CS101 Introduction to Programming
+Prerequisites: None
+Introduction to programming, variables, loops, and functions.

@@ -1,0 +1,3 @@
+Course: CS403 Data Mining
+Prerequisites: CS302, CS301
+Clustering, association rules.

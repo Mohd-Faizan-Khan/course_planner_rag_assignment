@@ -1,0 +1,3 @@
+Course: MATH201 Linear Algebra
+Prerequisites: MATH101
+Vectors, matrices.

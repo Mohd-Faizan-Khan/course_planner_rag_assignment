@@ -1,0 +1,3 @@
+Course: CS305 Software Engineering
+Prerequisites: CS201
+SDLC, agile, design patterns.

@@ -1,0 +1,3 @@
+Course: CS203 Computer Organization
+Prerequisites: CS101
+CPU, memory, assembly basics.

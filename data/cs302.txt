@@ -1,0 +1,3 @@
+Course: CS302 Database Systems
+Prerequisites: CS201
+SQL, normalization, indexing.

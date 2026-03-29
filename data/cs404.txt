@@ -1,0 +1,3 @@
+Course: CS404 Distributed Systems
+Prerequisites: CS303, CS304
+Distributed architecture, consensus.

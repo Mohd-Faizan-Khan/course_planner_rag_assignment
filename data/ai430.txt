@@ -1,0 +1,3 @@
+Course: CS430 Computer Vision
+Prerequisites: CS401
+Image processing, CNNs.
